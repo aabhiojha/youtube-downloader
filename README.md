@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/aabhiojha/youtube-downloader/blob/main/Screenshot from 2024-06-13 10-47-32.png)
+![Screenshot](https://github.com/aabhiojha/youtube-downloader/blob/main/Screenshot%20from%202024-06-13%2010-47-32.png)
                            
 # YouTube Downloader
 
