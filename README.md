@@ -13,4 +13,5 @@ To Download a single video file
 ``` python3 ytcli.py <VideoLink>```
 
 To Download a playlist
+
 ``` python3 playlistcli.py <Playlist url>```
