@@ -6,7 +6,7 @@ A simple tool written in python to download videos from YouTube.
 
  
 # Usage
-[(Back to top)](#table-of-contents)
+
 
 To Download a single video file
 
